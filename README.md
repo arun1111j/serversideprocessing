@@ -102,6 +102,7 @@ Area : <p id="result"></p>
 ## OUTPUT:
 ![Screenshot 2023-05-15 093307](https://github.com/arun1111j/serversideprocessing/assets/128461833/807347c8-0c1a-44cc-8325-91125d5bcb24)
 
+# Result:
 
-
+ website to perform mathematical calculations in server side is developed.
 
